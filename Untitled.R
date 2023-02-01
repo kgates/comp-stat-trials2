@@ -1,6 +1,12 @@
-# Let's start a new file. 
+# Let's start a new thing 
 
-# I added a new line. 
+
+# I added a new thingamabob 
 
 
 # Hoping I did this right?
+
+
+#Hi
+
+#msungseo
